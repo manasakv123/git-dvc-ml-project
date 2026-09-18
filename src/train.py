@@ -13,12 +13,12 @@ import joblib
 import os
 
 # ─────────────────────────────────────────────
-# HYPERPARAMETERS — change these for Version 2
+# HYPERPARAMETERS — Version 2
 # ─────────────────────────────────────────────
-N_ESTIMATORS = 100   # Number of trees in the forest
-MAX_DEPTH    = 10    # Maximum depth of each tree
+N_ESTIMATORS = 200   # Number of trees in the forest
+MAX_DEPTH    = 15    # Maximum depth of each tree
 RANDOM_STATE = 42    # Seed for reproducibility
-MODEL_VERSION = "Version 1"
+MODEL_VERSION = "Version 2"
 
 # ─────────────────────────────────────────────
 # PATHS

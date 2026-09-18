@@ -1,9 +1,9 @@
-Random Forest Classifier - Version 1
+Random Forest Classifier - Version 2
 ==================================================
 Dataset        : data/iris.csv
 Dataset rows   : 156
-n_estimators   : 100
-max_depth      : 10
+n_estimators   : 200
+max_depth      : 15
 random_state   : 42
 Train samples  : 124
 Test samples   : 32
